@@ -1,0 +1,8 @@
+{
+    "name": "sysmodel-service",
+    "version": "1.0.255",
+    "private": false,
+    "environment": "production",
+    "build_id": 908,
+    "allow_public_access": true
+}
